@@ -30,6 +30,3 @@ dart q2_list_filter.dart
 - Dart SDK
 
 ## Author
-
-Wesnei
-Student of Mobile Programming Course
