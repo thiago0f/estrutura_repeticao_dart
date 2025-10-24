@@ -29,4 +29,3 @@ dart q2_list_filter.dart
 
 - Dart SDK
 
-## Author
